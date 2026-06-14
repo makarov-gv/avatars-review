@@ -1,0 +1,18 @@
+# Paper manuscript sources (kept local; used only by scripts/_bootstrap_methods.py
+# to regenerate data/methods.json and the figures, which are committed).
+.paper/
+
+# Build/maintenance tooling (kept local; the generated README, data/, and
+# figures/ are what ships). Regenerate locally with scripts/generate_readme.py.
+scripts/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
