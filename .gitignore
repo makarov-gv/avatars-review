@@ -2,9 +2,10 @@
 # to regenerate data/methods.json and the figures, which are committed).
 .paper/
 
-# Build/maintenance tooling (kept local; the generated README, data/, and
+# Build/maintenance tooling and source data (kept local; the generated README and
 # figures/ are what ships). Regenerate locally with scripts/generate_readme.py.
 scripts/
+data/
 
 # Python
 __pycache__/
