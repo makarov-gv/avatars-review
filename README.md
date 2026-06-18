@@ -538,9 +538,8 @@ If you find these resources useful, please cite the review:
 @article{makarov2026avatars,
   title   = {GenAI for Digital Avatar Synthesis: A Comprehensive Review},
   author  = {Makarov, Georgy and Ryumin, Dmitry},
-  journal = {Preprint},
-  year    = {2026},
-  note    = {Review resources: https://github.com/makarov-gv/avatars-review}
+  journal = {Neurocomputing, Peer Review},
+  year    = {2026}
 }
 ```
 
